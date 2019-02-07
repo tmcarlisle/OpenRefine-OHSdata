@@ -1,2 +1,2 @@
 # OpenRefine-OHSdata
-Census data from Oklahoma Historical Society
+Introductory lesson on OpenRefine using census data from Oklahoma Historical Society
